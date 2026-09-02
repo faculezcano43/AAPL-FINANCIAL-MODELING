@@ -8,6 +8,8 @@ Projection Period: 2026E–2030E
   — https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm
 - **Units:** USD in millions unless otherwise stated
 
+📥 [Download the model](model/Lezcano-Facundo-Financial_Modeling__AAPL_final.xlsx)
+
 ## Color Coding
 
 - 🔵 Blue — hardcoded inputs
